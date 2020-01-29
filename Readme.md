@@ -1,7 +1,6 @@
 [![redhat][img-redhat]][url-redhat]
 
-# Red Hat OpenShift Container Platform
-<br>
+# Red Hat OpenShift Container Platform<br>
 ![](img/im1.png)
 
 **Red Hat OpenShift** es una plataforma de contenedores de Kubernetes empresarial con operaciones automatizadas integrales para gestionar implementaciones de nube híbrida y multicloud. **Red Hat OpenShift** está optimizada para mejorar la productividad de los desarrolladores y promover la innovación.
@@ -70,7 +69,6 @@ Crearemos un nuevo proyecto llamado "hello-openshift" con el siguente comando:
 ``` bash
 oc new-project hello-openshift --description="This is an example project to demonstrate OpenShift v3" --display-name="Hello OpenShift"
 ```
-<br>
 ![](img/im3.png)
 
 
