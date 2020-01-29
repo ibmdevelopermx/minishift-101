@@ -1,8 +1,9 @@
+[![redhat][img-redhat]][url-redhat]
+
 # Red Hat OpenShift Container Platform
 <br>
 ![](img/im1.png)
 
-[![redhat][img-redhat]][url-redhat]
 
 **Red Hat OpenShift** es una plataforma de contenedores de Kubernetes empresarial con operaciones automatizadas integrales para gestionar implementaciones de nube híbrida y multicloud. **Red Hat OpenShift** está optimizada para mejorar la productividad de los desarrolladores y promover la innovación.
 * [![openshift][img-openshift]][url-openshift] Para mayor información.
