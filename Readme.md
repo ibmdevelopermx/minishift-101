@@ -1,7 +1,6 @@
 # Red Hat OpenShift Container Platform
 <br>
 ![](img/im1.png)
-<br>
 
 [![redhat][img-redhat]][url-redhat]
 
@@ -73,7 +72,6 @@ oc new-project hello-openshift --description="This is an example project to demo
 ```
 <br>
 ![](img/im3.png)
-<br>
 
 
 ## Crear una app.<br>
@@ -121,9 +119,9 @@ Ej. ‘nodejs-ex-hello-openshift.192.168.99.100.nip.io’
 
 
 
-[img-redhat]: https://img.shields.io/badge/Red%20Hat-Powered-brightred.svg
+[img-redhat]: https://img.shields.io/badge/Red%20Hat-Powered-red.svg
 [url-redhat]: https://www.redhat.com/es
-[img-openshift]: https://img.shields.io/badge/Red%20Hat-Open%20Shift-brightred.svg
+[img-openshift]: https://img.shields.io/badge/Red%20Hat-Open%20Shift-red.svg
 [url-openshift]: https://www.redhat.com/es/technologies/cloud-computing/openshift?intcmp=701f2000001OEGrAAO
 [url-kvm]: https://docs.okd.io/latest/minishift/getting-started/setting-up-virtualization-environment.html#setting-up-kvm-driver
 [url-hyper]: https://docs.okd.io/latest/minishift/getting-started/setting-up-virtualization-environment.html#setting-up-hyperkit-driver
